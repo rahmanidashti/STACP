@@ -1,5 +1,5 @@
 # STACP
-LGLMF: Local Geographical based Logistic Matrix Factorization Model for POI Recommendation (ECIR 2020)
+Joint Geographical and Temporal Modeling based on Matrix Factorization for Point-of-Interest Recommendation (ECIR 2020)
 
 ## Environment Settings
 - Python version:  '3.7'
