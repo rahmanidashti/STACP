@@ -2,7 +2,7 @@
 Joint Geographical and Temporal Modeling based on Matrix Factorization for Point-of-Interest Recommendation (ECIR 2020)
 
 ## Environment Settings
-- Python version:  '3.7'
+- Python version:  '2.7'
 - You have to install the required libraries
 
 ## To run the code
