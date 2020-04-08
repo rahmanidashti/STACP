@@ -21,6 +21,13 @@ Hossein A. Rahmani, Mohammad Aliannejadi, Mitra Baratchi, Fabio Crestani. "Joint
 
 This repository contains the implementation of the Local Geographical based Logistic Matrix Factorization Model for POI Recommendation proposed in the ECIR 2020 paper. More details will be updated later.
 
+
+# Acknowledge
+For implemenation we got some information and inspiration of the codes that provided by the following paper:
+```
+Liu, Yiding, et al. "An experimental evaluation of point-of-interest recommendation in location-based social networks." in VLDB, 2017
+```
+
 # Contact
 If you have any questions, do not hesitate to contact us by `srahmani@znu.ac.ir` or `rahmanidashti@gmail.com`, we will be happy to assist.
 
