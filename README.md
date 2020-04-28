@@ -8,7 +8,7 @@ Joint Geographical and Temporal Modeling based on Matrix Factorization for Point
 ## To run the code
 You need just run the `recommendation.py`
 
-The `TimeAwareMF.py` lib is implemented in `Python 2`. Therefore you should run the model with `Python`.
+The `TimeAwareMF.py` lib is implemented in `Python 2`. Therefore you should run the model with `Python 2`.
 
 - To change the dataset, you have to write its name in the `recommendation.py`.
 
