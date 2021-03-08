@@ -16,10 +16,17 @@ The `TimeAwareMF.py` lib is implemented in `Python 2`. Therefore you should run 
 Please cite our paper if you use our datasets or implementations:
 
 ```
-Hossein A. Rahmani, Mohammad Aliannejadi, Mitra Baratchi, Fabio Crestani. "Joint Geographical and Temporal Modeling based on Matrix Factorization for Point-of-Interest Recommendation," 42nd European Conference on Information Retrieva (ECIR), Lisbon, Portugal, 2019.
+@inproceedings{rahmani2020joint,
+  title={Joint geographical and temporal modeling based on matrix factorization for point-of-interest recommendation},
+  author={Rahmani, Hossein A and Aliannejadi, Mohammad and Baratchi, Mitra and Crestani, Fabio},
+  booktitle={European Conference on Information Retrieval},
+  pages={205--219},
+  year={2020},
+  organization={Springer}
+}
 ```
 
-This repository contains the implementation of the Local Geographical based Logistic Matrix Factorization Model for POI Recommendation proposed in the ECIR 2020 paper. More details will be updated later.
+This repository contains the implementation of the Joint geographical and temporal modeling based on matrix factorization for point-of-interest recommendation presented in the ECIR 2020 paper. More details will be updated later.
 
 
 # Acknowledge
